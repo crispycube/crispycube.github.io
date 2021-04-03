@@ -16,10 +16,14 @@
 body {
     margin: 0px;
 }
+a:link, a:visited, a:active {
+    text-decoration: none;
+}
 div#website_title {
+    display: inline-flex;
     width: 1348px;
-    height: 110px;
-    padding: 44px 0px 22px
+    height: 44px;
+    padding: 44px 0px 22px;
 }
 span#website_title{
     display: block;
@@ -28,9 +32,6 @@ span#website_title{
     font-family: 'Lato', sans-serif;
     font-size: 44px;
     color: #546270;
-}
-a:link, a:visited, a:active {
-    text-decoration: none;
 }
 .jellyfish_div {
     display: flex;
