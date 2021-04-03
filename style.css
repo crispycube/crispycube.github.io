@@ -22,6 +22,7 @@ div.website_title {
     padding: 44px 0px 22px
 }
 span.website_title {
+    display: block;
     text-decoration: none;
     text-align: center;
     font-family: 'Lato', sans-serif;
@@ -30,6 +31,7 @@ span.website_title {
 }
 .jellyfish {
     text-align: center;
+    line-height: 100%;
     font-family: 'Montserract', sans-serif;
     font-size: 48px;
     font-weight: bold;
