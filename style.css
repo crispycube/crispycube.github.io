@@ -21,7 +21,7 @@ div#website_title {
     height: 110px;
     padding: 44px 0px 22px
 }
-span#website_title, span#website_title:visited, span#website_title:active {
+span#website_title{
     display: block;
     text-decoration: none;
     text-align: center;
