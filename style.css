@@ -29,6 +29,9 @@ span#website_title{
     font-size: 44px;
     color: #546270;
 }
+a:visited, a:active {
+    text-decoration: none;
+}
 .jellyfish_div {
     display: flex;
     align-items: center;
