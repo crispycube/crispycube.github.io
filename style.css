@@ -30,6 +30,7 @@ span.website_title {
     color: #546270;
 }
 .jellyfish {
+    display: flex;
     text-align: center;
     line-height: 100%;
     font-family: 'Montserract', sans-serif;
