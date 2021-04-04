@@ -17,6 +17,7 @@ body {
     margin: 0px;
 }
 a:link, a:visited, a:active {
+    text-align: center;
     text-decoration: none;
 }
 div#website_title {
