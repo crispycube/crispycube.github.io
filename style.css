@@ -17,11 +17,11 @@ body {
     margin: 0px;
 }
 a:link, a:visited, a:active {
-    text-align: center;
     text-decoration: none;
 }
 div#website_title {
-    display: inline-flex;
+    display: block;
+    text-align: center;
     width: 1348px;
     height: 44px;
     padding: 44px 0px 22px;
