@@ -50,10 +50,8 @@ span#website_title{
     height: 58px;
 }
 .content {
-    display: inline-flex;
-    text-align: center;
+    display: inline-block;
 }
 img {
-    height: auto;
-    width: auto;
+    display: inline-block;
 }
