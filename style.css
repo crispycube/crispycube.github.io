@@ -51,9 +51,9 @@ span#website_title{
 }
 .content {
     display: inline-block;
-    margin: auto;
+    text-align: center;
 }
 img {
     display: inline-block;
-    margin: auto;
+    text-align: center;
 }
