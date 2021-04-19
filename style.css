@@ -45,6 +45,15 @@ span#website_title{
     font-family: 'Montserract', sans-serif;
     font-size: 48px;
     font-weight: 750;
+    font-stretch: semi-expanded;
     color: #d5d5d5;
     height: 58px;
+}
+.content {
+    display: inline-flex;
+    text-align: center;
+}
+img {
+    height: auto;
+    width: auto;
 }
