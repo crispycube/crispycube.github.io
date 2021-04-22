@@ -51,9 +51,12 @@ span#website_title{
 }
 .content {
     display: inline-block;
-    text-align: center;
+    position: relative;
+    left: 25%;
 }
 img {
     display: inline-block;
     text-align: center;
+    position: relative;
+    right: 25%;
 }
