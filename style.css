@@ -94,7 +94,10 @@ span#title{
 .figma_caption {
   font-family: 'Montserract', sans-serif;
   color: #415161;
-  font-size: 14.4px;
+  font-size: 15px;
   margin-top: 10px;
-  letter-spacing: 1px;
+}
+.buttons {
+  display: flex;
+  justify-content: center;
 }
