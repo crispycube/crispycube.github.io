@@ -62,7 +62,7 @@ span#title{
   margin-top: 20px;
 }
 .selfie {
-  width: 80%;
+  width: 100%;
   display: block;
   margin: auto;
 }
@@ -89,7 +89,7 @@ span#title{
 }
 .linkedin {
   display: block;
-  margin: 40px 0px;
+  margin: 60px 0px;
 }
 .figma_caption {
   font-family: 'Montserract', sans-serif;
