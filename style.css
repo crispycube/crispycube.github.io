@@ -62,38 +62,38 @@ span#title{
   margin-top: 20px;
 }
 .selfie {
-width: 50%;
-display: block;
-margin: auto;
+  width: 70%;
+  display: block;
+  margin: auto;
 }
 .app_figma {
-width: 100%;
-display: block;
-margin-top: 50px;
+  width: 100%;
+  display: block;
+  margin-top: 50px;
 }
 .content {
-text-align: center;
-display: flex;
-margin: 25%;
-margin-top: 64px;
-margin-bottom: 107px;
+  text-align: center;
+  display: flex;
+  margin: 25%;
+  margin-top: 64px;
+  margin-bottom: 107px;
 }
 .both_sides {
-display: inline-block;
-width: 50%;
-overflow: auto;
-padding: 0px 15px;
+  display: inline-block;
+  width: 50%;
+  overflow: auto;
+  padding: 0px 15px;
 }
 .left_side {
-text-align: left;
+  text-align: left;
 }
 .linkedin {
-display: block;
-margin: 20px 0px;
+  display: block;
+  margin: 20px 0px;
 }
 .figma_caption {
-font-family: 'Montserract', sans-serif;
-color: #415161;
-font-size: 14.4px;
-margin-top: 10px;
+  font-family: 'Montserract', sans-serif;
+  color: #415161;
+  font-size: 14.4px;
+  margin-top: 10px;
 }
