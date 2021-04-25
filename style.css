@@ -62,6 +62,7 @@ span#title{
     position: absolute;
     width: 50%;
     margin: 30px;
+    left: 50%;
 }
 .aboutme {
     font-size: 13px;
