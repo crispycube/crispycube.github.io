@@ -50,19 +50,22 @@ span#title{
 }
 .aboutme {
     font-size: 13px;
-    padding: 10px;
 }
 .biography {
     font-family: Arial, sans-serif;
     line-height: 1.6;
     font-size: 16px;
-    padding: 10px;
 }
 .selfie {
   max-width: inherit;
+  display: block;
+  margin: auto;
+  margin-bottom: 70px;
 }
 .app_figma {
   width: inherit;
+  display: block;
+  margin: auto;
 }
 .content {
   text-align: center;
