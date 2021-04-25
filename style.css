@@ -60,6 +60,7 @@ span#title{
   color: #626262;
   margin: auto;
   margin-top: 20px;
+  margin-bottom: 20px;
 }
 .selfie {
   width: 70%;
@@ -86,10 +87,6 @@ span#title{
 }
 .left_side {
   text-align: left;
-}
-.linkedin {
-  display: block;
-  margin: 40px 0px 20px 0px;
 }
 .figma_caption {
   font-family: 'Montserract', sans-serif;
