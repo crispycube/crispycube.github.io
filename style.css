@@ -51,7 +51,7 @@ span#title{
 }
 .left_side {
     display: inline-block;
-    position: absolute;
+    position: relative;
     left: 25%;
     width: 50%;
     margin: 30px;
