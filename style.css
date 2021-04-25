@@ -50,27 +50,28 @@ span#title{
 }
 .aboutme {
     font-size: 13px;
-    margin: 20px;
-    margin-left: 70%;
+    margin-top: 50px;
+    margin-left: 55%;
     color: #2a2a2a;
 }
 .biography {
     font-family: Arial, sans-serif;
     line-height: 1.6;
     font-size: 16px;
-    margin: 20px;
-    margin-left: 70%;
+    margin-top: 50px;
+    margin-left: 55%;
     color: #626262;
 }
 .selfie {
   max-width: inherit;
   display: block;
-  margin: 20px 280px 70px 20px;
+  margin-left: 10%;
+  margin-top: 50px;
 }
 .app_figma {
-  width: inherit;
+  width: 60%;
   display: block;
-  margin: 20px 280px 70px 0px;
+  margin-top: 50px;
 }
 .content {
   text-align: center;
@@ -85,4 +86,9 @@ span#title{
 }
 .left_side {
   text-align: left;
+  padding: 20px;
+}
+.linkedin {
+  margin-left: 55%;
+  margin-top: 50px;
 }
