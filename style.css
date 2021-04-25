@@ -74,13 +74,13 @@ margin-top: 50px;
 .content {
 text-align: center;
 display: flex;
-margin: 64px 280px 107px 208px;
+margin: 25%;
+margin-top: 64px;
+margin-bottom: 107px;
 }
 .both_sides {
 display: inline-block;
 width: 50%;
-border: solid;
-border-color: lime;
 overflow: auto;
 padding: 0px 15px;
 }
